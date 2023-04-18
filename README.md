@@ -50,7 +50,8 @@ print("Swapped values are:",num1,num2)
 
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/119476088/229990771-e7c3a83c-5d79-4cdf-ab16-7673c1d2cc12.png)
+![yesthwanth 1a python](https://user-images.githubusercontent.com/119476088/232811404-37339d1e-b0c3-4b90-a158-c5c6a1373bb8.png)
+
 
 ## RESULT:
 
